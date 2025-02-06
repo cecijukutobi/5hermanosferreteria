@@ -1,0 +1,19 @@
+head{
+    
+
+}
+
+body{
+    background-image: url('back.jpg'); 
+    text-align: center;
+    z-index: -1;
+    display: block;   
+    
+}
+header{background-color: beige;
+
+}
+
+nav{background-color: yellow;
+
+}
